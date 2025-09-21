@@ -6,7 +6,7 @@ I’m a **Linux System Administrator / Linux & DevOps Enthusiast** passionate ab
 
 ### 🚀 About Me    
 - 🐧 Linux enthusiast — learning LPIC-1, Bash scripting, and server administration  
-- ☁️ Exploring DevOps tools and cloud security (AWS, CI/CD, Kubernetes)  
+- ☁️ Exploring DevOps tools and cloud security (AWS, CI/CD,Terraform)  
 - 📝 Sharing knowledge & building open-source projects  
 
 ---

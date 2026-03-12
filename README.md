@@ -17,7 +17,7 @@ real-world DevOps problems.
 
 ### 🛠️ Skills & Tools
 
-- **OS:** Debian, Ubuntu, Red Hat, systemd, cron
+- **OS:** Debian, Ubuntu, Red Hat, Windows
 - **Automation:** Bash scripting, Ansible, n8n
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Terraform
 - **Cloud:** AWS (EC2, S3, IAM, VPC)
